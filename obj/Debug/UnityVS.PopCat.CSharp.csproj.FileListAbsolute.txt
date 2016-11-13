@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\PopCat\obj\Debug\UnityVS.PopCat.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PopCat\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\PopCat\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb

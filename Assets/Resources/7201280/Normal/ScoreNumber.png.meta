@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: c675eb5a2dedade4699c8e83134adabb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ScoreNumber_4
+    21300002: ScoreNumber_1
+    21300004: ScoreNumber_2
+    21300006: ScoreNumber_0
+    21300008: ScoreNumber_4
+    21300010: ScoreNumber_6
+    21300012: ScoreNumber_8
+    21300014: ScoreNumber_3
+    21300016: ScoreNumber_8
+    21300018: ScoreNumber_9
+    21300020: ScoreNumber_10
+    21300022: ScoreNumber_11
+    21300024: ScoreNumber_5
+    21300026: ScoreNumber_9
+    21300028: ScoreNumber_7
+    21300030: ScoreNumber_15
+    21300032: ScoreNumber_16
+    21300034: ScoreNumber_17
+    21300036: ScoreNumber_18
+    21300038: ScoreNumber_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ScoreNumber_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 182
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 184
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 186
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 200
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 110
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 116
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 146
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 124
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 89
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 36
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 38
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 86
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 34
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumber_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

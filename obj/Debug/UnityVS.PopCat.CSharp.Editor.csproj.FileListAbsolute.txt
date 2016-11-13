@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\PopCat\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.xml
+C:\Users\Administrator\Desktop\PopCat\obj\Debug\UnityVS.PopCat.CSharp.Editor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PopCat\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Administrator\Desktop\PopCat\obj\Debug\Assembly-CSharp-Editor.pdb
